@@ -14,7 +14,7 @@
 :root {
     /* As of now (9/3/23) I faily sure that the lost of colors are user selected variables*/
     --bg-color:#BCA37F;
-    --second-bg-color: #BCA37F;
+    --second-bg-color: #FFFBF5;
     --text-color: #113946;
     --main-color:  #FFFBF5;
 }
