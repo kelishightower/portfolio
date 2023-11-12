@@ -13,10 +13,10 @@
 /*As of now I assume that these act as refrence variables... order jst dosent seem to matter*/
 :root {
     /* As of now (9/3/23) I faily sure that the lost of colors are user selected variables*/
-    --bg-color:#081629;
+    --bg-color: #F3EEEA;
     --second-bg-color:#112e42;
     --text-color: #ededed;
-    --main-color: #F3EEEA;
+    --main-color: #00abfe;
 }
 
 html {
