@@ -92,7 +92,7 @@ section {
     align-items: center;
     padding: 0 9%;
     /*The point where we came back and revisted*/
-    background: url('/images/seniorphoto1.jpeg') no-repeat;
+    background: url('images/seniorphoto1-removebg-preview.png') no-repeat;
     background-size: 45%;
     background-position: right;
 }
