@@ -677,7 +677,7 @@ section {
     bottom: 10;
     width: 100%;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-end;
     flex-wrap: wrap;
     padding: 1rem 9%;
     background: var(--bg-color);
@@ -696,7 +696,7 @@ section {
     position: relative;
     display: inline-flex;
     justify-self: center;
-    align-items: center;
+    align-items: flex-end;
     padding: .8rem;
     background: var(--main-color);
     border: .2rem solid var(--main-color);
